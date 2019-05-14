@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+venv/lib/python3.7/site-packages
+venv
+*.pyc
